@@ -29,8 +29,10 @@ fn App() -> Html {
             />
             <Message
                 person={ "Jane Fakeland" }
-                message={ "I should have broke up with you a LONG time ago" }
+                message={ "Okay, let's try it." }
             />
+
+            <h1>{ "Start! ->" }</h1>
         </>
     }
 }
